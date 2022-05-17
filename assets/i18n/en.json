@@ -1,0 +1,90 @@
+{
+  "NAVBAR": {
+    "HOME": "Home",
+    "AREAS": "Area",
+    "HABS": "Bedrooms",
+    "PRICES": "Prices",
+    "GALLERY": "Gallery",
+    "CONTACT": "Contact"
+  },
+  "HEADER": {
+    "TITLE": "Welcome to",
+    "SUBTITLE": "We offer you the best and cheapest lodging in the area.",
+    "BUTTONCAP": "Rates"
+  },
+  "HOME": {
+    "AREA-TITLE": "Areas and zones,",
+    "AREA-SUBTITLE": "we offer different areas to make your stay pleasant and comfortable!",
+    "AREA1-TITLE": "Reception",
+    "AREA1-DESCR": "We are located a short distance from Playa Brasilito and Playa Conchal; as well as the Flamingo, Potrero, Pan de Azúcar and Playa Grande beaches, among other heavenly places that you can find and enjoy the north coast of Costa Rica.",
+    "AREA2-TITLE": "Rancho Nany",
+    "AREA2-DESCR": "In our restaurant, Rancho Nany, you can enjoy breakfast, lunch and dinner. National and international food.",
+    "AREA3-TITLE": "Wet Bar",
+    "AREA3-DESCR": "Have fun in our pool with pool bar where you can order your favorite drinks while relaxing.",
+    "AREA4-TITLE": "Swimming Pool",
+    "AREA4-DESCR": "Our pool does not contain chlorine, it is filtered with mineral salts. It has an area for children and adults.",
+    "AREA5-TITLE": "Gardens",
+    "AREA5-DESCR": "All rooms overlook the gardens and fruit trees.",
+    "AREA6-TITLE": "Parquing area",
+    "AREA6-DESCR": "Our guests have free parking service.",
+    "HABS-TITLE": "Rooms,",
+    "HABS-SUBTITLE": "all our rooms have Queen beds, TV, A/C, WiFi and private bathroom.",
+    "HAB1-TITLE": "Standard Room",
+    "HAB1-DESCR1": "1 Queen Bed 174-sq-foot (16-sq-meter) room with garden views.",
+    "HAB1-DESCR2": "Wheelchair accessible.",
+    "HAB1-DESCR3": "Non-Smoking area.",
+    "HAB2-TITLE": "Standard Apartment",
+    "HAB2-DESCR1": "1 Queen Bed and 1 Twin Bed. 172-sq-foot (16-sq-meter) room with garden views.",
+    "HAB2-DESCR2": "Wheelchair accessible.",
+    "HAB2-DESCR3": "Non-Smoking area.",
+    "HAB3-TITLE": "Apartment semi equipped",
+    "HAB3-DESCR1": "1 Queen Bed and 2 Twin Beds. 489-sq-foot (45-sq-meter) room with garden views.",
+    "HAB3-DESCR2": "2 bedrooms and dining area.",
+    "HAB3-DESCR3": "Kitchenette with refrigerator, stovetop, and rice cooker.",
+    "HAB4-TITLE": "Family House",
+    "HAB4-DESCR1": "2 Queen Beds and 1 Twin Bed 645-sq-foot (60-sq-meter) room with garden views.",
+    "HAB4-DESCR2": "2 bedrooms and dining area.",
+    "HAB4-DESCR3": "Kitchenette with refrigerator, stovetop, and rice cooker."
+  },
+  "PRICES": {
+    "TITLE": "Enter the dates of your stay and the total number of people",
+    "LABEL1": "Checkin - Checkout",
+    "LABEL2": "Persons",
+    "SUBMIT": "Search",
+    "TIP1": "Standard Room",
+    "TIP2": "Standard Apart.",
+    "TIP3": "Apart. semi equipped",
+    "TIP4": "Family House",
+    "LBLADU": "Adult",
+    "LBLCHI": "Children",
+    "LBLROO": "Room",
+    "STAT1-TITLE": "Price per night",
+    "STAT2-TITLE": "Total nights",
+    "STAT3-TITLE": "Total stay",
+    "STAT3-DESC": "Taxes included.",
+    "EMAIL": "Ask for more information..."
+  },
+  "GALLERY": {
+    "TITTLE": "Image gallery"
+  },
+  "CONTACT": {
+    "TITLE": "Lets talk about everything!",
+    "SUBTITLE": "Do you have queries? Send us an",
+    "LABELEMAIL": "Email",
+    "LABELSUBJECT": "Subject",
+    "LABELDATEIN": "Check In",
+    "LABELDATEOUT": "Check Out",
+    "LABELMESSAGE": "Message",
+    "BUTTONSEND": "Send Message",
+    "SUBJECTREQUIRED": "Name is required",
+    "MESSAGEREQUIRED": "Message is required",
+    "ALERTSUCCESS": "Message sent successfully.",
+    "ALERTSUCCESS2": "We will send you the answer as soon as possible.",
+    "ALERTERROR": "Your message was not sent. Try again later.",
+    "ALERTERROR2": "There were errors with your submission."
+  },
+  "FOOTER": {
+    "TITTLE": "Contact Us",
+    "DESIGNBY": "Design by"
+  }
+}

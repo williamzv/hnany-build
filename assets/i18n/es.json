@@ -1,0 +1,90 @@
+{
+  "NAVBAR": {
+    "HOME": "Inicio",
+    "AREAS": "Areas",
+    "HABS": "Habitaciones",
+    "PRICES": "Precios",
+    "GALLERY": "Galería",
+    "CONTACT": "Contacto"
+  },
+  "HEADER": {
+    "TITLE": "Bienvenidos a",
+    "SUBTITLE": "Te ofrecemos el mejor y más económico hospedaje de la zona.",
+    "BUTTONCAP": "Tarifas"
+  },
+  "HOME": {
+    "AREA-TITLE": "Areas y zonas,",
+    "AREA-SUBTITLE": "ofrecemos distintas areas para hacer de su estancia placentera y confortable!",
+    "AREA1-TITLE": "Recepción",
+    "AREA1-DESCR": "Estamos ubicados a corta distancia de Playa Brasilito y Playa Conchal; así como de las playas Flamingo, Potrero, Pan de Azúcar y Playa Grande, entre otros sitios paradisíacos que podrá encontrar y disfrutar en la costa norte de Costa Rica.",
+    "AREA2-TITLE": "Rancho Nany",
+    "AREA2-DESCR": "En nuestro restaurante Rancho Nany, usted podrá disfrutar de desayunos, almuerzos y cenas. Comida nacional e internacional.",
+    "AREA3-TITLE": "Bar Mojado",
+    "AREA3-DESCR": "Diviértase en nuestra piscina con bar en la que podrá ordenar sus bebidas favoritas mientras se relaja.",
+    "AREA4-TITLE": "Piscina",
+    "AREA4-DESCR": "Nuestra piscina no contiene cloro, se filtra con sales minerales. Cuenta con una zona para niños y adultos.",
+    "AREA5-TITLE": "Jardines",
+    "AREA5-DESCR": "Todas las habitaciones tiene vista a los jardines y árboles frutales.",
+    "AREA6-TITLE": "Parqueo",
+    "AREA6-DESCR": "Nuestros huespedes tienen servicio de parqueo gratuíto.",
+    "HABS-TITLE": "Habitaciones,",
+    "HABS-SUBTITLE": "todas nuestras habitaciones cuentan con camas Queen, TV, A/C, WiFi y baño privado.",
+    "HAB1-TITLE": "Habitación Estándar",
+    "HAB1-DESCR1": "1 Cama Queen. 28m2 con vista a los jardines.",
+    "HAB1-DESCR2": "Accesible para sillas de ruedas.",
+    "HAB1-DESCR3": "Area para no fumadores.",
+    "HAB2-TITLE": "Apartamento Estándar",
+    "HAB2-DESCR1": "1 Cama Queen y 1 Cama Twin. 28m2 con vista a los jardines.",
+    "HAB2-DESCR2": "Accesible para sillas de ruedas.",
+    "HAB2-DESCR3": "Area para no fumadores.",
+    "HAB3-TITLE": "Apartamento semi equipado",
+    "HAB3-DESCR1": "1 Cama Queen y 2 Camas Twin. 33m2 con vista a los jardines.",
+    "HAB3-DESCR2": "2 dormitorios y un comedor.",
+    "HAB3-DESCR3": "Cocina con refrigerador, estufa y olla arrocera.",
+    "HAB4-TITLE": "Casa Familiar",
+    "HAB4-DESCR1": "2 Cama Queen y 1 Cama Twin. 60m2 con vista a los jardines.",
+    "HAB4-DESCR2": "2 dormitorios y un comedor.",
+    "HAB4-DESCR3": "Cocina con refrigerador, estufa y olla arrocera."
+  },
+  "PRICES": {
+    "TITLE": "Ingrese las fechas de su estadía y el total de personas",
+    "LABEL1": "Entrada - Salida",
+    "LABEL2": "Personas",
+    "SUBMIT": "Consultar",
+    "TIP1": "Hab. Estándar",
+    "TIP2": "Apart. Estándar",
+    "TIP3": "Apart. Semi equipado",
+    "TIP4": "Casa Familiar",
+    "LBLADU": "Adulto(s)",
+    "LBLCHI": "Niño(s)",
+    "LBLROO": "Hab.",
+    "STAT1-TITLE": "Precio por noche",
+    "STAT2-TITLE": "Total noches",
+    "STAT3-TITLE": "Total estadía",
+    "STAT3-DESC": "Impuestos incluídos.",
+    "EMAIL": "Solicitar más información..."
+  },
+  "GALLERY": {
+    "TITTLE": "Galería de imagenes"
+  },
+  "CONTACT": {
+    "TITLE": "¿Cómo podemos ayudarle?",
+    "SUBTITLE": "Si tienes consultas, envíanos un",
+    "LABELEMAIL": "Email",
+    "LABELSUBJECT": "Asunto",
+    "LABELDATEIN": "Ingreso",
+    "LABELDATEOUT": "Salida",
+    "LABELMESSAGE": "Mensaje",
+    "BUTTONSEND": "Enviar Mensaje",
+    "SUBJECTREQUIRED": "El asunto es requerido",
+    "MESSAGEREQUIRED": "El mensaje es requerido",
+    "ALERTSUCCESS": "Su mensaje fue enviado satisfactoriamente",
+    "ALERTSUCCESS2": "Te enviaremos la respuesta lo antes posible.",
+    "ALERTERROR": "Su mensaje no fue enviado. Por favor, intente más tarde.",
+    "ALERTERROR2": "Hubo errores en el envío."
+  },
+  "FOOTER": {
+    "TITTLE": "Contacto",
+    "DESIGNBY": "Diseñado por"
+  }
+}
